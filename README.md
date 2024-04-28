@@ -10,7 +10,6 @@ In this context, comes our solution, "Automated Threat Evaluation of Automotive 
 Our solution focuses on the application of "Active Automata Learning" techniques for reverse engineering system machines of automotive systems, with the implementation of AI models for threat scope controlling  and attack surface mapping.<br>
 
 ### Keywords: ECU, Automotive Diagnostic Protocols, Security Metrics, AI <br>
-https://github.com/wissemkarous/CAN-secure_dream_drive/issues/1#issue-2267491144s
 
 
 
