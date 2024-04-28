@@ -9,7 +9,8 @@ In order to be able to remediate these problems and limitations, a solution that
 In this context, comes our solution, "Automated Threat Evaluation of Automotive Diagnostic Protocols", targeting diagnostic protocols in automotive systems, offering a huge attack surface with devastating impacts if vulnerabilities are present.<br>
 Our solution focuses on the application of "Active Automata Learning" techniques for reverse engineering system machines of automotive systems, with the implementation of AI models for threat scope controlling  and attack surface mapping.<br>
 
-### Keywords: ECU, Automotive Diagnostic Protocols, Security Metrics, AI
+### Keywords: ECU, Automotive Diagnostic Protocols, Security Metrics, AI <br>
+<center> ![canbus](https://github.com/wissemkarous/CAN-secure_dream_drive/assets/88007154/762456b9-9a6d-4d0c-bd09-7dd2ffea9573) </center>
 
 
 
